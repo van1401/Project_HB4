@@ -1,0 +1,6 @@
+root[0]/hp_boss[1]/icon_boss[2],1017,87,58,60
+root[0]/hp_boss[1]/hp[1],535.5,84.5,1043,63
+root[0]/hp_boss[1]/bg_hp[0],535.5,84.5,1071,91
+root[0]/zombie[0]/icon_noti[2],530.5,90,171,156
+root[0]/zombie[0]/Zombies_Incoming[1],536,75.5,450,55
+root[0]/zombie[0]/bg_text[0],536.5,77,839,132

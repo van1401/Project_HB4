@@ -1,0 +1,40 @@
+root[0]/HP[6]/UI_text_HP[1],833.5,1306,57,34
+root[0]/HP[6]/UI_icon_HP[0],809,1339.5,88,75
+root[0]/ATK[5]/UI_icon_ATK[1],77.5,1340.5,83,83
+root[0]/ATK[5]/UI_bg_ATK[0],183,1340.5,210,65
+root[0]/icon_design[4]/UI_design_belt[8],149.5,1526,123,78
+root[0]/icon_design[4]/UI_design_necklace[7],137,1509,134,150
+root[0]/icon_design[4]/UI_design_armor[6],135,1506.5,170,123
+root[0]/icon_design[4]/UI_design_gloves[5],150.5,1514,115,138
+root[0]/icon_design[4]/UI_design_weapon[4],121.5,1505.5,109,87
+root[0]/icon_design[4]/UI_design_gloves[3],149,1514,108,106
+root[0]/icon_design[4]/UI_design_random[2],148,1500.5,60,83
+root[0]/icon_design[4]/UI_bg_item[1],283.5,1492.5,107,99
+root[0]/icon_design[4]/UI_bg_icon[0],135,1509,184,184
+root[0]/Ui_frame[3]/Shape 10[18],69,1653,38,56
+root[0]/Ui_frame[3]/icon copy 15[17],216,1655,48,58
+root[0]/Ui_frame[3]/UI_level_yellow[16],140.5,1630.5,59,67
+root[0]/Ui_frame[3]/UI_level_purple[15],140.5,1630.5,59,67
+root[0]/Ui_frame[3]/UI_level_red[14],140.5,1630.5,59,65
+root[0]/Ui_frame[3]/UI_item_rarity_blue[13],67.5,1785.5,63,63
+root[0]/Ui_frame[3]/UI_item_rarity_green[12],66.5,1786.5,63,63
+root[0]/Ui_frame[3]/UI_item_rarity_red[11],66.5,1786.5,63,63
+root[0]/Ui_frame[3]/UI_item_rarity_gray[10],66.5,1785.5,63,63
+root[0]/Ui_frame[3]/UI_item_rarity_yellow[9],67.5,1785.5,63,63
+root[0]/Ui_frame[3]/UI_item_rarity_purple[8],67.5,1785.5,63,63
+root[0]/Ui_frame[3]/UI_item_rarity_yellow_2[7],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_grey[6],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_green[5],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_blue[4],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_yellow[3],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_red[2],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_purple_2[1],138,1714,184,184
+root[0]/Ui_frame[3]/UI_item_rarity_purple[0],138,1714,184,184
+root[0]/level[2]/UI_level[2],66.9999999999998,2129,68,86
+root[0]/level[2]/UI_block_ load[1],220,2128,256,36
+root[0]/level[2]/UI_block_level[0],196.5,2128,315,48
+root[0]/panel[1]/Rectangle 1 copy 2[3],540,2133,1080,118
+root[0]/panel[1]/Ui_icon_equipment[2],340.5,232.5,173,173
+root[0]/panel[1]/UI_item_change_icon[1],195.5,1069.5,41,41
+root[0]/panel[1]/UI_panel_equipment[0],540,633.5,1080,1267
+root[0]/UI_bg_equipment[0],540,1091.5,1080,2183

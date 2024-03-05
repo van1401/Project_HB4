@@ -1,0 +1,11 @@
+root[0]/frame_red[1]/Next[6],553,234.5,356,157
+root[0]/frame_red[1]/Layer 8 copy 2[5],214,253.5,164,119
+root[0]/frame_red[1]/text___ copy 2[4],681.5,234,399,36
+root[0]/frame_red[1]/RPG[3],694,316.5,78,35
+root[0]/frame_red[1]/star_on copy 4[2],210.5,148,41,40
+root[0]/frame_red[1]/Frame_Passive_2[1],540,236,908,248
+root[0]/frame_red[1]/Frame_Weapon_2[0],540,236,908,248
+root[0]/Frame_yellow[0]/star_on[3],114.5,147,41,40
+root[0]/Frame_yellow[0]/Frame_Passive[2],540,235,908,248
+root[0]/Frame_yellow[0]/Frame_Weapon[1],540,235,924,264
+root[0]/Frame_yellow[0]/Outer_glow[0],540,235,980,320

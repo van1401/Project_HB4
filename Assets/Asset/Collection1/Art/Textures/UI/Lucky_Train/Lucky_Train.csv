@@ -1,0 +1,18 @@
+root[0]/light[5]/pink[3],317.5,365.5,31,31
+root[0]/light[5]/yellow[2],153.5,365.5,31,31
+root[0]/light[5]/pink_2[1],317.5,365.5,41,41
+root[0]/light[5]/yellow_2[0],153.5,365.5,41,41
+root[0]/outer_glow[4]/frame_1[4],208.5,207.5,139,139
+root[0]/outer_glow[4]/frame_yellow[3],208.5,207.5,139,139
+root[0]/outer_glow[4]/frame_green[2],208.5,207.5,139,139
+root[0]/outer_glow[4]/star[1],155.5,176.5,45,41
+root[0]/outer_glow[4]/Ellipse 1[0],202,207,230,230
+root[0]/bt_next[3]/Next[1],206.5,101.5,137,49
+root[0]/bt_next[3]/bt[0],207,102.5,356,157
+root[0]/Layer 4 copy 2[2],72.5000000000001,285.5,87,91
+root[0]/coin[1]/icon_coin[2],75.5,207,99,110
+root[0]/coin[1]/text_[1],215,198,34,46
+root[0]/coin[1]/bg_text[0],201.5,200.5,315,71
+root[0]/panel-2[0]/Char[2],212,212.5,400,379
+root[0]/panel-2[0]/frame_skill[1],212,209,126,126
+root[0]/panel-2[0]/panel[0],211,210.5,184,231

@@ -1,0 +1,14 @@
+root[0]/UI_bg_text[4],542,1723.5,320,63
+root[0]/UI_button_X[3],984.5,1714,131,84
+root[0]/Grade_skills[2]/UI_yellow[9],160,888,44,44
+root[0]/Grade_skills[2]/UI_red[8],160,942,44,44
+root[0]/Grade_skills[2]/UI_green[7],160,992,44,44
+root[0]/Grade_skills[2]/UI_purple[6],160,1046,44,44
+root[0]/Grade_skills[2]/UI_blue[5],160,1112,44,44
+root[0]/Grade_skills[2]/UI_item_locked_effect_green[4],160,826.999999999999,64,64
+root[0]/Grade_skills[2]/UI_item_locked_effect_blue[3],160,826.999999999999,64,64
+root[0]/Grade_skills[2]/UI_item_locked_effect_purple[2],160,826.999999999999,64,64
+root[0]/Grade_skills[2]/UI_item_locked_effect_red[1],160,826.999999999999,64,64
+root[0]/Grade_skills[2]/UI_item_locked_effect_yellow[0],160,826.999999999999,64,64
+root[0]/UI_icon_replace[1],951.5,1531,89,84
+root[0]/Ui_panel[0],541.5,1160.5,909,825

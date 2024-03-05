@@ -1,0 +1,21 @@
+root[0]/chest[11]/UI_icon_chest_stage[1],541,800,138,130
+root[0]/chest[11]/UI_block_panel_opacity[0],540.5,731,229,124
+root[0]/avt[10]/14[5],141,1914.5,28,25
+root[0]/avt[10]/New moon Games[4],237,1965,230,26
+root[0]/avt[10]/UI_load_avt[3],270,1915,204,12
+root[0]/avt[10]/UI_bg_load_avt[2],270.5,1915,213,18
+root[0]/avt[10]/UI_icon_avt_normal[1],68,1946,98,98
+root[0]/avt[10]/UI_block_[0],240.5,1966.5,317,45
+root[0]/UI_icon_add[9],459,1939,36,36
+root[0]/UI_icon_energy_[8],443.5,1961,51,66
+root[0]/UI_icon_gem [7],683,1963.5,58,63
+root[0]/UI_golden_coin[6],896.5,1966.5,57,57
+root[0]/UI_block_account[5],540,1962,1080,152
+root[0]/tab_menu[3]/UI_icon_battle[4],547,238.5,238,177
+root[0]/tab_menu[3]/UI_line_menu[3],187,167,8,180
+root[0]/tab_menu[3]/UI_button_menu_on[2],547,168,350,188
+root[0]/tab_menu[3]/UI_button_menu_off[1],280.5,168.5,75,103
+root[0]/tab_menu[3]/UI_bg_menu[0],540,166.5,1080,245
+root[0]/Ui_button_sup_gray[2],88.5,1751,131,124
+root[0]/UI_icon_stage[1],553.5,1202.5,563,599
+root[0]/UI_bg[0],540,1064.5,1080,2129

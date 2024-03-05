@@ -1,0 +1,17 @@
+root[0]/UI__merge_lv3[2]/UI_item_select[1],324.5,960,189,182
+root[0]/UI__merge_lv3[2]/UI_bg_merge_3[0],765,1494,484,248
+root[0]/UI_merge_2[1]/UI_bg_text_merge[3],541.5,1285,845,108
+root[0]/UI_merge_2[1]/UI_icon_lv[2],863.5,1826,35,28
+root[0]/UI_merge_2[1]/UI_icon_add[1],513,1488,100,100
+root[0]/UI_merge_2[1]/UI_frame_item_add1[0],766,1494,274,248
+root[0]/UI_merge_1[0]/UI_show_all_[4]/UI_bg_icon_[1],90.5,1493.5,95,91
+root[0]/UI_merge_1[0]/UI_show_all_[4]/UI_bg_show[0],158,1428,276,466
+root[0]/UI_merge_1[0]/UI_button_Filter[3]/UI_icon_show_filter[3],269,1150,28,20
+root[0]/UI_merge_1[0]/UI_button_Filter[3]/Ui_text_All[2],72.5,1155,57,34
+root[0]/UI_merge_1[0]/UI_button_Filter[3]/UI_bg_all[1],74,1154.5,80,75
+root[0]/UI_merge_1[0]/UI_button_Filter[3]/UI_button_show[0],158,1154,276,106
+root[0]/UI_merge_1[0]/UI_tab_bar[2],540,1202.5,1080,257
+root[0]/UI_merge_1[0]/UI_bg_item_merge[1],553.5,1690,947,642
+root[0]/UI_merge_1[0]/bg[0]/UI_bg_skill[2],540,544,1080,1088
+root[0]/UI_merge_1[0]/bg[0]/UI_line[1],550,1637,1060,984
+root[0]/UI_merge_1[0]/bg[0]/UI_bg_[0],540,1573,1080,1112
